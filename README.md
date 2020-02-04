@@ -13,6 +13,11 @@ https://www.vvork.info/
 https://www.youtube.com/channel/UCIGb456BHqb38R-14hgfGoQ/videos
 https://vmwarelab.org/
 Virtualiseme TV Training videos : https://www.youtube.com/channel/UCWfyTiUBwRKjB_qckVPVpcQ/playlists
+Joseph Griffiths VRO Videos
+- VRO BAsic Part 1 : https://www.youtube.com/watch?v=hO3ku7DvxKs
+- VRO Basic Part 2 : https://www.youtube.com/watch?v=UjxXTlSO-P8
+- Learning VRO : https://www.youtube.com/watch?v=1RdZjRs2sa0
+
 
 #Links
 https://docs.vmware.com/en/VMware-Code-Stream/index.html
