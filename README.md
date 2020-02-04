@@ -20,3 +20,9 @@ https://docs.vmware.com/en/VMware-Code-Stream/services/Using-and-Managing-VMware
 
 #Events
 http://autoug.eventbrite.com/
+
+Next meeting : https://www.eventbrite.com/e/automation-user-group-meeting-3-tickets-89237410497
+
+#Feedback
+https://forms.gle/71ni1ZnCouNu9ETHA
+
