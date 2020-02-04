@@ -16,3 +16,7 @@ https://vmwarelab.org/
 #Links
 https://docs.vmware.com/en/VMware-Code-Stream/index.html
 https://docs.vmware.com/en/VMware-Code-Stream/services/Using-and-Managing-VMware-Code-Stream.pdf
+
+
+#Events
+http://autoug.eventbrite.com/
