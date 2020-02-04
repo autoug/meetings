@@ -12,6 +12,7 @@ https://flings.vmware.com/power-vra-cloud
 https://www.vvork.info/
 https://www.youtube.com/channel/UCIGb456BHqb38R-14hgfGoQ/videos
 https://vmwarelab.org/
+Virtualiseme TV Training videos : https://www.youtube.com/channel/UCWfyTiUBwRKjB_qckVPVpcQ/playlists
 
 #Links
 https://docs.vmware.com/en/VMware-Code-Stream/index.html
