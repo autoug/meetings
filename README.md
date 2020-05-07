@@ -5,26 +5,26 @@ Repo for sharing content, links, etc from meetings.
 Find links to events etc. below.
 
 ## Flings<br>
-Main Site : https://flings.vmware.com
-Power VRA Cloud : https://flings.vmware.com/power-vra-cloud
-vCenter Event Broker Appliance : https://flings.vmware.com/vcenter-event-broker-appliance
-vRealize Build Tools : https://flings.vmware.com/vrealize-build-tools
-vRA Cloud Python Services : https://flings.vmware.com/cloud-automation-services-sdk-for-python
+Main Site : https://flings.vmware.com<br>
+Power VRA Cloud : https://flings.vmware.com/power-vra-cloud<br>
+vCenter Event Broker Appliance : https://flings.vmware.com/vcenter-event-broker-appliance<br>
+vRealize Build Tools : https://flings.vmware.com/vrealize-build-tools<br>
+vRA Cloud Python Services : https://flings.vmware.com/cloud-automation-services-sdk-for-python<br>
 
 ## Links<br>
-https://docs.vmware.com/en/VMware-Code-Stream/index.html 
-https://docs.vmware.com/en/VMware-Code-Stream/services/Using-and-Managing-VMware-Code-Stream.pdf
+https://docs.vmware.com/en/VMware-Code-Stream/index.html <br>
+https://docs.vmware.com/en/VMware-Code-Stream/services/Using-and-Managing-VMware-Code-Stream.pdf<br>
 
 ## Training<br>
 
 
 ## Events<br>
 Main event site : http://autoug.eventbrite.com/<br>
-Next meeting : https://www.eventbrite.com/e/automation-user-group-meeting-3-tickets-89237410497
+Next meeting : https://www.eventbrite.com/e/automation-user-group-meeting-3-tickets-89237410497<br>
 
-## Other Links
-PHPipam Integration for VRA : https://github.com/rhjensen79/PHPipam
+## Other Links<br>
+PHPipam Integration for VRA : https://github.com/rhjensen79/PHPipam<br>
 
 ## Feedback<br>
-https://forms.gle/71ni1ZnCouNu9ETHA
+https://forms.gle/71ni1ZnCouNu9ETHA<br>
 
