@@ -8,7 +8,8 @@ Find links to events etc. below.
 https://github.com/autoug/meetings/wiki/Flings
 
 ## Links<br>
-https://github.com/autoug/meetings/wiki/Links
+https://docs.vmware.com/en/VMware-Code-Stream/index.html 
+https://docs.vmware.com/en/VMware-Code-Stream/services/Using-and-Managing-VMware-Code-Stream.pdf
 
 ## Training<br>
 https://github.com/autoug/meetings/wiki/Training
