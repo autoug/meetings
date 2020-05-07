@@ -25,7 +25,9 @@ Find links to events etc. below.
 
 ## Other Links<br>
 - PHPipam Integration for VRA : https://github.com/rhjensen79/PHPipam<br>
+- Post deployment notification on Slack : https://code.vmware.com/samples/6699/post-deployment-notification-on-slack?h=Sample#
+- VMware CMBU jurney with Code Stream : https://blogs.vmware.com/management/2019/06/yes-we-use-it-ourselves-vmware-code-stream.html
 
 ## Feedback<br>
-https://forms.gle/71ni1ZnCouNu9ETHA<br>
+- Feedback from meetings : https://forms.gle/71ni1ZnCouNu9ETHA<br>
 
