@@ -15,6 +15,7 @@ Find links to events etc. below.
 - https://docs.vmware.com/en/VMware-Code-Stream/index.html <br>
 - https://docs.vmware.com/en/VMware-Code-Stream/services/Using-and-Managing-VMware-Code-Stream.pdf<br>
 - Terraform Provider for VRA : https://github.com/vmware/terraform-provider-vra
+- VRA Cloud API Documentation : https://blogs.vmware.com/management/2019/09/cloud-automation-services-api-first.html
 
 ## Training<br>
 - Youtube playlist, with short VRA videos : https://www.youtube.com/watch?v=R1otMUOI1Js&list=PLclJ2j-mkO9bWxn9RRcWMDSqtrlXNnbEg<br>
