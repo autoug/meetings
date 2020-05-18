@@ -25,7 +25,7 @@ Find links to events etc. below.
 - Next meeting : https://www.eventbrite.com/e/automation-user-group-meeting-3-tickets-89237410497<br>
 
 ## Other Links<br>
-- PHPipam Integration for VRA : https://github.com/rhjensen79/PHPipam<br>
+- Robert's Repo for extensibility in VRA : https://github.com/rhjensen79/vra-extensibility<br>
 - Post deployment notification on Slack : https://code.vmware.com/samples/6699/post-deployment-notification-on-slack?h=Sample#
 - VMware CMBU jurney with Code Stream : https://blogs.vmware.com/management/2019/06/yes-we-use-it-ourselves-vmware-code-stream.html
 - Show time saved by Automation with VRA : https://code.vmware.com/samples/6698/show-time-saved-by-using-vra-for-deployments?h=Sample
