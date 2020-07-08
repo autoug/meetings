@@ -21,6 +21,8 @@ Find links to events etc. below.
 - Youtube playlist, with short VRA videos : https://www.youtube.com/watch?v=R1otMUOI1Js&list=PLclJ2j-mkO9bWxn9RRcWMDSqtrlXNnbEg<br>
 - @SpasKaloferov Zero2Hero: Cloud Assembly ABX Actions – Part 1 : https://t.co/qkhvhMUM5s?amp=1
 - @SpasKaloferov Zero2Hero: Cloud Assembly ABX Actions – Part 2 : https://t.co/HrNJCteNB5?amp=1
+- @embano1 VMware Code Practical Git - Video : https://www.youtube.com/watch?v=1EkomxvCscQ
+- @embano1 VMware Code Practical Git - Deck : https://speakerdeck.com/embano1/vmware-code-power-session-git-07-2020
 
 ## Events<br>
 - Main event site : http://autoug.eventbrite.com/<br>
