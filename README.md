@@ -27,7 +27,7 @@ Find links to events etc. below.
 ## Events<br>
 - Main event site : http://autoug.eventbrite.com/<br>
 - Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-august-tickets-112369319660<br>
-- September Planned meeting : Date 3.9.2020 from 10.00-12.00.
+- September meeting : https://www.eventbrite.com/e/automation-user-group-online-event-september-tickets-113763581936<br>
 
 ## Other Links<br>
 - Robert's Repo for extensibility in VRA : https://github.com/rhjensen79/vra-extensibility<br>
