@@ -15,6 +15,10 @@ Find links to events etc. below.
 ## Feedback<br>
 - Feedback from meetings : https://forms.gle/71ni1ZnCouNu9ETHA<br>
 
+## Events<br>
+- Main event site : http://autoug.eventbrite.com/<br>
+- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-september-tickets-113763581936
+
 ## Flings<br>
 - Main Site : https://flings.vmware.com<br>
 - Power VRA Cloud : https://flings.vmware.com/power-vra-cloud<br>
@@ -28,10 +32,6 @@ Find links to events etc. below.
 - @SpasKaloferov Zero2Hero: Cloud Assembly ABX Actions – Part 2 : https://t.co/HrNJCteNB5?amp=1
 - @embano1 VMware Code Practical Git - Video : https://www.youtube.com/watch?v=1EkomxvCscQ
 - @embano1 VMware Code Practical Git - Deck : https://speakerdeck.com/embano1/vmware-code-power-session-git-07-2020
-
-## Events<br>
-- Main event site : http://autoug.eventbrite.com/<br>
-- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-september-tickets-113763581936
 
 ## Links<br>
 - Robert's Repo for extensibility in VRA : https://github.com/rhjensen79/vra-extensibility<br>
