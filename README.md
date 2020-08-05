@@ -22,12 +22,6 @@ Find links to events etc. below.
 - vRealize Build Tools : https://flings.vmware.com/vrealize-build-tools<br>
 - vRA Cloud Python Services : https://flings.vmware.com/cloud-automation-services-sdk-for-python<br>
 
-## Links<br>
-- https://docs.vmware.com/en/VMware-Code-Stream/index.html <br>
-- https://docs.vmware.com/en/VMware-Code-Stream/services/Using-and-Managing-VMware-Code-Stream.pdf<br>
-- Terraform Provider for VRA : https://github.com/vmware/terraform-provider-vra
-- VRA Cloud API Documentation : https://blogs.vmware.com/management/2019/09/cloud-automation-services-api-first.html
-
 ## Training<br>
 - Youtube playlist, with short VRA videos : https://www.youtube.com/watch?v=R1otMUOI1Js&list=PLclJ2j-mkO9bWxn9RRcWMDSqtrlXNnbEg<br>
 - @SpasKaloferov Zero2Hero: Cloud Assembly ABX Actions – Part 1 : https://t.co/qkhvhMUM5s?amp=1
@@ -39,14 +33,16 @@ Find links to events etc. below.
 - Main event site : http://autoug.eventbrite.com/<br>
 - Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-september-tickets-113763581936
 
-## Other Links<br>
+## Links<br>
 - Robert's Repo for extensibility in VRA : https://github.com/rhjensen79/vra-extensibility<br>
 - Post deployment notification on Slack : https://code.vmware.com/samples/6699/post-deployment-notification-on-slack?h=Sample#
 - VMware CMBU jurney with Code Stream : https://blogs.vmware.com/management/2019/06/yes-we-use-it-ourselves-vmware-code-stream.html
 - Show time saved by Automation with VRA : https://code.vmware.com/samples/6698/show-time-saved-by-using-vra-for-deployments?h=Sample
 - VRA Multi tenancy blog from VMwareLab : https://vmwarelab.org/2020/04/14/vrealize-automation-8-1-multi-tenancy-setup-with-vrealize-suite-lifecycle-manager-8-1/
 - VRA Multi Tenancy blog from theCloudExpert : https://thecloudxpert.net/2020/05/02/howto-configure-multi-org-tenancy-in-vra81-series/
-
+- VRA Cloud API Documentation : https://blogs.vmware.com/management/2019/09/cloud-automation-services-api-first.html
+- Terraform Provider for VRA : https://github.com/vmware/terraform-provider-vra
+- https://docs.vmware.com/en/VMware-Code-Stream/services/Using-and-Managing-VMware-Code-Stream.pdf<br>
 
 
 
