@@ -42,5 +42,6 @@ Find links to events etc. below.
 ### August 2020
 
 - Automatisering med Veeam Recording :
-- Automatisering med Veeam Presentaion :
 - Vra 8.1 Whats New Recording : 
+- Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/August2020
+
