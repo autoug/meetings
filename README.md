@@ -26,8 +26,7 @@ Find links to events etc. below.
 
 ## Events<br>
 - Main event site : http://autoug.eventbrite.com/<br>
-- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-august-tickets-112369319660<br>
-- September meeting : https://www.eventbrite.com/e/automation-user-group-online-event-september-tickets-113763581936<br>
+- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-september-tickets-113763581936
 
 ## Other Links<br>
 - Robert's Repo for extensibility in VRA : https://github.com/rhjensen79/vra-extensibility<br>
@@ -38,3 +37,10 @@ Find links to events etc. below.
 ## Feedback<br>
 - Feedback from meetings : https://forms.gle/71ni1ZnCouNu9ETHA<br>
 
+## Recordings and Presentations from previus meetings.
+
+### August 2020
+
+- Automatisering med Veeam Recording :
+- Automatisering med Veeam Presentaion :
+- Vra 8.1 Whats New Recording : 
