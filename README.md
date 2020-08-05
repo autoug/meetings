@@ -4,6 +4,17 @@ Repo for sharing content, links, etc from meetings.
 
 Find links to events etc. below.
 
+## Recordings and Presentations from previus meetings.
+
+### August 2020
+
+- Automatisering med Veeam Recording :
+- Vra 8.1 Whats New Recording : 
+- Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/August2020
+
+## Feedback<br>
+- Feedback from meetings : https://forms.gle/71ni1ZnCouNu9ETHA<br>
+
 ## Flings<br>
 - Main Site : https://flings.vmware.com<br>
 - Power VRA Cloud : https://flings.vmware.com/power-vra-cloud<br>
@@ -34,14 +45,6 @@ Find links to events etc. below.
 - VMware CMBU jurney with Code Stream : https://blogs.vmware.com/management/2019/06/yes-we-use-it-ourselves-vmware-code-stream.html
 - Show time saved by Automation with VRA : https://code.vmware.com/samples/6698/show-time-saved-by-using-vra-for-deployments?h=Sample
 
-## Feedback<br>
-- Feedback from meetings : https://forms.gle/71ni1ZnCouNu9ETHA<br>
 
-## Recordings and Presentations from previus meetings.
 
-### August 2020
-
-- Automatisering med Veeam Recording :
-- Vra 8.1 Whats New Recording : 
-- Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/August2020
 
