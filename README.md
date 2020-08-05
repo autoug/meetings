@@ -44,6 +44,8 @@ Find links to events etc. below.
 - Post deployment notification on Slack : https://code.vmware.com/samples/6699/post-deployment-notification-on-slack?h=Sample#
 - VMware CMBU jurney with Code Stream : https://blogs.vmware.com/management/2019/06/yes-we-use-it-ourselves-vmware-code-stream.html
 - Show time saved by Automation with VRA : https://code.vmware.com/samples/6698/show-time-saved-by-using-vra-for-deployments?h=Sample
+- VRA Multi tenancy blog from VMwareLab : https://vmwarelab.org/2020/04/14/vrealize-automation-8-1-multi-tenancy-setup-with-vrealize-suite-lifecycle-manager-8-1/
+- VRA Multi Tenancy blog from theCloudExpert : https://thecloudxpert.net/2020/05/02/howto-configure-multi-org-tenancy-in-vra81-series/
 
 
 
