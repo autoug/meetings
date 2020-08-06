@@ -8,8 +8,9 @@ Find links to events etc. below.
 
 ### August 2020
 
-- Automatisering med Veeam Recording : https://youtu.be/MwRQkWL4e-M
-- Vra 8.1 Whats New Recording : https://youtu.be/MwRQkWL4e-M?t=3346
+- Intro : https://www.youtube.com/watch?v=MwRQkWL4e-M&t=0s
+- Automatisering med Veeam Recording : https://www.youtube.com/watch?v=MwRQkWL4e-M&t=178s
+- Vra 8.1 Whats New Recording : https://www.youtube.com/watch?v=MwRQkWL4e-M&t=3346s
 - Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/August2020
 
 ## Feedback<br>
