@@ -6,6 +6,14 @@ Find links to events etc. below.
 
 ## Recordings and Presentations from previus meetings.
 
+### September 2020
+
+- Intro : https://youtu.be/HCPXxYoTLlI
+- Tales from the field : https://youtu.be/HCPXxYoTLlI?t=250
+- Terraform in VRA : https://youtu.be/HCPXxYoTLlI?t=3877
+- Free discussions : https://youtu.be/HCPXxYoTLlI?t=6017
+- Presentation from the meeting : 
+
 ### August 2020
 
 - Intro : https://www.youtube.com/watch?v=MwRQkWL4e-M&t=0s
@@ -18,8 +26,7 @@ Find links to events etc. below.
 
 ## Events<br>
 - Main event site : http://autoug.eventbrite.com/<br>
-- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-september-tickets-113763581936
-- Oktober meeting : https://www.eventbrite.com/e/automation-user-group-online-event-oktober-tickets-118881093551
+- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-oktober-tickets-118881093551
 
 ## Flings<br>
 - Main Site : https://flings.vmware.com<br>
