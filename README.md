@@ -12,7 +12,7 @@ Find links to events etc. below.
 - Tales from the field : https://youtu.be/HCPXxYoTLlI?t=250
 - Terraform in VRA : https://youtu.be/HCPXxYoTLlI?t=3877
 - Free discussions : https://youtu.be/HCPXxYoTLlI?t=6017
-- Presentation from the meeting : 
+- Presentation from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/September2020
 
 ### August 2020
 
