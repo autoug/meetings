@@ -57,7 +57,7 @@ Find links to events etc. below.
 ## Other<br>
 - vUpdate - VMware podcast : https://anchor.fm/vupdate
 - VMworld 2020 Cloud Management content : https://blogs.vmware.com/management/2020/09/vmworld-vra.html
-
+- SaltStack ressourcer : https://github.com/hbokh/awesome-saltstack
 
 
 
