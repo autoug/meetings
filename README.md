@@ -58,6 +58,7 @@ Find links to events etc. below.
 - vUpdate - VMware podcast : https://anchor.fm/vupdate
 - VMworld 2020 Cloud Management content : https://blogs.vmware.com/management/2020/09/vmworld-vra.html
 - SaltStack ressourcer : https://github.com/hbokh/awesome-saltstack
+- Jenkins plugin for VRA : https://github.com/jenkinsci/vrealize-automation-8-plugin
 
 
 
