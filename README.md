@@ -53,12 +53,13 @@ Find links to events etc. below.
 - Terraform Provider for VRA : https://github.com/vmware/terraform-provider-vra
 - https://docs.vmware.com/en/VMware-Code-Stream/services/Using-and-Managing-VMware-Code-Stream.pdf<br>
 - VRA Resource type Schema : https://code.vmware.com/apis/894/vrealize-automation-resource-type-schema
+- Jenkins plugin for VRA : https://github.com/jenkinsci/vrealize-automation-8-plugin
 
 ## Other<br>
 - vUpdate - VMware podcast : https://anchor.fm/vupdate
 - VMworld 2020 Cloud Management content : https://blogs.vmware.com/management/2020/09/vmworld-vra.html
 - SaltStack ressourcer : https://github.com/hbokh/awesome-saltstack
-- Jenkins plugin for VRA : https://github.com/jenkinsci/vrealize-automation-8-plugin
+
 
 
 
