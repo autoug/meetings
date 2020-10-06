@@ -60,7 +60,7 @@ Find links to events etc. below.
 - VMworld 2020 Cloud Management content : https://blogs.vmware.com/management/2020/09/vmworld-vra.html
 - SaltStack ressourcer : https://github.com/hbokh/awesome-saltstack
 
-## Products Whts New Updates
+## Products Whats New Updates
 - VRA 8.2 Whats New : https://blogs.vmware.com/management/2020/10/announcing-ga-vra-8-2.html?utm_source=feedly&utm_medium=rss&utm_campaign=announcing-ga-vra-8-2
 - VROPS 8.2 Whats New : https://blogs.vmware.com/management/2020/10/whats-new-vrops-82.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-vrops-82
 
