@@ -41,6 +41,7 @@ Find links to events etc. below.
 - @SpasKaloferov Zero2Hero: Cloud Assembly ABX Actions – Part 2 : https://t.co/HrNJCteNB5?amp=1
 - @embano1 VMware Code Practical Git - Video : https://www.youtube.com/watch?v=1EkomxvCscQ
 - @embano1 VMware Code Practical Git - Deck : https://speakerdeck.com/embano1/vmware-code-power-session-git-07-2020
+- @sammcgeown Automating Secrets with HashiCorp Vault and VRA : https://www.youtube.com/watch?v=srY3vJVZU1s&ab_channel=VMware%7Bcode%7D
 
 ## Links<br>
 - Robert's Repo for extensibility in VRA : https://github.com/rhjensen79/vra-extensibility<br>
@@ -63,6 +64,4 @@ Find links to events etc. below.
 ## Products Whats New Updates
 - VRA 8.2 Whats New : https://blogs.vmware.com/management/2020/10/announcing-ga-vra-8-2.html?utm_source=feedly&utm_medium=rss&utm_campaign=announcing-ga-vra-8-2
 - VROPS 8.2 Whats New : https://blogs.vmware.com/management/2020/10/whats-new-vrops-82.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-vrops-82
-
-
 
