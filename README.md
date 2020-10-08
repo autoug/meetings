@@ -6,6 +6,10 @@ Find links to events etc. below.
 
 ## Recordings and Presentations from previus meetings.
 
+### Oktober 2020
+- Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/Oktober2020
+
+
 ### September 2020
 
 - Intro : https://youtu.be/HCPXxYoTLlI
