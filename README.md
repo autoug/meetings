@@ -7,8 +7,11 @@ Find links to events etc. below.
 ## Recordings and Presentations from previus meetings.
 
 ### Oktober 2020
+- Intro : https://youtu.be/EJkYcFvH0ZQ
+- VCF : https://youtu.be/EJkYcFvH0ZQ?t=239
+- Chat due to network fallout : https://youtu.be/EJkYcFvH0ZQ?t=3752
+- ABX : https://youtu.be/EJkYcFvH0ZQ?t=4169
 - Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/Oktober2020
-
 
 ### September 2020
 
