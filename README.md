@@ -30,7 +30,7 @@ Find links to events etc. below.
 
 ## Events<br>
 - Main event site : http://autoug.eventbrite.com/<br>
-- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-oktober-tickets-118881093551
+- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-december-tickets-121690470473
 
 ## Flings<br>
 - Main Site : https://flings.vmware.com<br>
