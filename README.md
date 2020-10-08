@@ -6,6 +6,13 @@ Find links to events etc. below.
 
 ## Recordings and Presentations from previus meetings.
 
+### Oktober 2020
+- Intro : https://youtu.be/EJkYcFvH0ZQ
+- VCF : https://youtu.be/EJkYcFvH0ZQ?t=239
+- Chat due to network fallout : https://youtu.be/EJkYcFvH0ZQ?t=3752
+- ABX : https://youtu.be/EJkYcFvH0ZQ?t=4169
+- Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/Oktober2020
+
 ### September 2020
 
 - Intro : https://youtu.be/HCPXxYoTLlI
@@ -26,7 +33,7 @@ Find links to events etc. below.
 
 ## Events<br>
 - Main event site : http://autoug.eventbrite.com/<br>
-- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-oktober-tickets-118881093551
+- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-december-tickets-121690470473
 
 ## Flings<br>
 - Main Site : https://flings.vmware.com<br>
