@@ -69,7 +69,7 @@ Find links to events etc. below.
 - SaltStack ressourcer : https://github.com/hbokh/awesome-saltstack
 
 ## Products Whats New Updates
-- VRA 8.2 Whats New : https://blogs.vmware.com/management/2020/10/announcing-ga-vra-8-2.html?utm_source=feedly&utm_medium=rss&utm_campaign=announcing-ga-vra-8-2
+- VRA 8.2 Whats New : https://blogs.vmware.com/management/2020/10/whats-new-with-vrealize-automation-8-2-technical-overview.html
 - VROPS 8.2 Whats New : https://blogs.vmware.com/management/2020/10/whats-new-vrops-82.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-vrops-82
 - LCM 8.2 Whats New : https://blogs.vmware.com/management/2020/10/vrealize-suite-lifecycle-manager.html?utm_source=feedly&utm_medium=rss&utm_campaign=vrealize-suite-lifecycle-manager
 
