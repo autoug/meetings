@@ -4,7 +4,7 @@ Repo for sharing content, links, etc from meetings.
 
 Find links to events etc. below.
 
-##  !!!Important News!!!
+##  !!!Important Info!!!
 - Important info, before upgrading to VRA  8.2 : https://kb.vmware.com/s/article/81107
 
 ## Recordings and Presentations from previus meetings.
