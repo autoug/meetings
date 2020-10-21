@@ -62,6 +62,7 @@ Find links to events etc. below.
 - https://docs.vmware.com/en/VMware-Code-Stream/services/Using-and-Managing-VMware-Code-Stream.pdf<br>
 - VRA Resource type Schema : https://code.vmware.com/apis/894/vrealize-automation-resource-type-schema
 - Jenkins plugin for VRA : https://github.com/jenkinsci/vrealize-automation-8-plugin
+- HowTo connect to vRA API : https://vra4u.com/2020/06/26/vra-8-1-quick-tip-api-authentication/
 
 ## Other<br>
 - vUpdate - VMware podcast : https://anchor.fm/vupdate
