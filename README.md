@@ -72,4 +72,6 @@ Find links to events etc. below.
 - VRA 8.2 Whats New : https://blogs.vmware.com/management/2020/10/whats-new-with-vrealize-automation-8-2-technical-overview.html
 - VROPS 8.2 Whats New : https://blogs.vmware.com/management/2020/10/whats-new-vrops-82.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-vrops-82
 - LCM 8.2 Whats New : https://blogs.vmware.com/management/2020/10/vrealize-suite-lifecycle-manager.html?utm_source=feedly&utm_medium=rss&utm_campaign=vrealize-suite-lifecycle-manager
+- Log Insight 8.2 Whats New : https://blogs.vmware.com/management/2020/10/whats-new-in-vrealize-log-insight-8-2.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-in-vrealize-log-insight-8-2
+
 
