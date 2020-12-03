@@ -6,6 +6,9 @@ Find links to events etc. below.
 
 ## Recordings and Presentations from previus meetings.
 ### December 2020
+- Intro : https://www.youtube.com/watch?v=Fg9gpMWqMF0&t=12s
+- VEBA : https://www.youtube.com/watch?v=Fg9gpMWqMF0&t=297s
+- SaltStack : https://www.youtube.com/watch?v=Fg9gpMWqMF0&t=3860s
 - Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/December2020
 ### Oktober 2020
 - Intro : https://youtu.be/EJkYcFvH0ZQ
