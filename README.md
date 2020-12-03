@@ -5,7 +5,8 @@ Repo for sharing content, links, etc from meetings.
 Find links to events etc. below.
 
 ## Recordings and Presentations from previus meetings.
-
+### December 2020
+- Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/December 2020
 ### Oktober 2020
 - Intro : https://youtu.be/EJkYcFvH0ZQ
 - VCF : https://youtu.be/EJkYcFvH0ZQ?t=239
