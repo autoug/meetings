@@ -1,4 +1,4 @@
-# Welcome to http://Autoug.io
+# Welcome to Autoug.io
 ## The Automation User Group 
 
 This Repo is for sharing content, links, etc from meetings, and for discussion Automation, with other peers. 
