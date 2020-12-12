@@ -1,4 +1,4 @@
-# Welcome to (Autoug.io)[autoug.io]
+# Welcome to Autoug.io
 ## The localtion for everything around
 ## The Automation User Group 
 
