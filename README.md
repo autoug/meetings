@@ -1,9 +1,8 @@
 # Welcome to Autoug.io
 ## The Automation User Group 
 
-Repo for sharing content, links, etc from meetings. 
+This Repo is for sharing content, links, etc from meetings, and for discussion Automation, with other peers. 
 
-Find links to events etc. below.
 
 ## Recordings and Presentations from previus meetings.
 ### December 2020
