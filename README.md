@@ -1,5 +1,4 @@
 # Welcome to Autoug.io
-## The localtion for everything around
 ## The Automation User Group 
 
 Repo for sharing content, links, etc from meetings. 
