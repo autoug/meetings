@@ -69,7 +69,8 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 - Jenkins plugin for VRA : https://github.com/jenkinsci/vrealize-automation-8-plugin
 - HowTo connect to vRA API : https://vra4u.com/2020/06/26/vra-8-1-quick-tip-api-authentication/
 - vRA API tips (Getting started, filtering, Odata, etc) : https://vdc-download.vmware.com/vmwb-repository/dcr-public/d2e4e058-df27-4ac1-a100-4dfd0ef774c0/cb3a080c-8e25-4492-9f1e-ff923ec1b98c/tips.html
-
+- Rainpole Packer repository : https://github.com/rainpole/packer-vsphere
+ 
 ## Other<br>
 - vUpdate - VMware podcast : https://anchor.fm/vupdate
 - VMworld 2020 Cloud Management content : https://blogs.vmware.com/management/2020/09/vmworld-vra.html
