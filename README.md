@@ -3,7 +3,6 @@
 
 This Repo is for sharing content, links, etc from meetings, and for discussion Automation, with other peers. 
 
-
 ## Recordings and Presentations from previus meetings.
 ### December 2020
 - Intro : https://www.youtube.com/watch?v=Fg9gpMWqMF0&t=12s
@@ -37,7 +36,7 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 
 ## Events<br>
 - Main event site : http://autoug.eventbrite.com/<br>
-- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-december-tickets-121690470473
+- Next meeting : https://www.eventbrite.dk/e/automation-user-group-online-event-january-2021-tickets-133202970671?aff=website
 
 ## Flings<br>
 - Main Site : https://flings.vmware.com<br>
