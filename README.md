@@ -36,7 +36,7 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 
 ## Events<br>
 - Main event site : http://autoug.eventbrite.com/<br>
-- Next meeting : https://www.eventbrite.dk/e/automation-user-group-online-event-january-2021-tickets-133202970671?aff=website
+- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-january-2021-tickets-133202970671?keep_tld=1
 
 ## Flings<br>
 - Main Site : https://flings.vmware.com<br>
