@@ -35,7 +35,7 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 - Feedback from meetings : https://forms.gle/71ni1ZnCouNu9ETHA<br>
 
 ## Events<br>
-- Main event site : http://autoug.eventbrite.com/<br>
+- Main event site : http://events.autoug.io<br>
 - Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-january-2021-tickets-133202970671?keep_tld=1
 
 ## Flings<br>
