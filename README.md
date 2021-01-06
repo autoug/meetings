@@ -74,6 +74,7 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 - vUpdate - VMware podcast : https://anchor.fm/vupdate
 - VMworld 2020 Cloud Management content : https://blogs.vmware.com/management/2020/09/vmworld-vra.html
 - SaltStack ressourcer : https://github.com/hbokh/awesome-saltstack
+- How to Migrate from vRealize Automation 7.x to 8.2 Today : https://blogs.vmware.com/management/2021/01/how-to-migrate-from-vrealize-automation-7-x-to-8-2-today.html
 
 ## Products Whats New Updates
 - VRA 8.2 Whats New : https://blogs.vmware.com/management/2020/10/whats-new-with-vrealize-automation-8-2-technical-overview.html
