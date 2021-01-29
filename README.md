@@ -4,19 +4,42 @@
 This Repo is for sharing content, links, etc from meetings, and for discussion Automation, with other peers. 
 
 ## Recordings and Presentations from previus meetings.
-### December 2020
+
+## January 2021
+
+### Back to Basics: Getting started with Docker - Robert Jensen
+
+- Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=256s
+- Git Repo : https://github.com/rhjensen79/b2b-docker  
+- Presentation : https://github.com/rhjensen79/b2b-docker/blob/master/presentation.pdf
+
+### vRealize Automation & Terraform: a New Way to Deploy - Gary Flynn
+- Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=2370s
+- Blog post : https://garyflynn.com/technology/hashicorp/vra-and-terraform-a-new-way-to-deploy/
+
+### Creating VM templates with  Packer - Michael Poore
+- Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=4840s
+
+### Ansible & HashiCorp Vault: a perfect match - Mark Brookfield
+- Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=7670s
+- Git Repo : https://github.com/autoug/playbooks
+
+### Full Recording
+- https://youtu.be/QPLJL1u-Hvs
+
+## December 2020
 - Intro : https://www.youtube.com/watch?v=Fg9gpMWqMF0&t=12s
 - VEBA : https://www.youtube.com/watch?v=Fg9gpMWqMF0&t=297s
 - SaltStack : https://www.youtube.com/watch?v=Fg9gpMWqMF0&t=3860s
 - Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/December2020
-### Oktober 2020
+## Oktober 2020
 - Intro : https://youtu.be/EJkYcFvH0ZQ
 - VCF : https://youtu.be/EJkYcFvH0ZQ?t=239
 - Chat due to network fallout : https://youtu.be/EJkYcFvH0ZQ?t=3752
 - ABX : https://youtu.be/EJkYcFvH0ZQ?t=4169
 - Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/Oktober2020
 
-### September 2020
+## September 2020
 
 - Intro : https://youtu.be/HCPXxYoTLlI
 - Tales from the field : https://youtu.be/HCPXxYoTLlI?t=250
@@ -24,7 +47,7 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 - Free discussions : https://youtu.be/HCPXxYoTLlI?t=6017
 - Presentation from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/September2020
 
-### August 2020
+## August 2020
 
 - Intro : https://www.youtube.com/watch?v=MwRQkWL4e-M&t=0s
 - Automatisering med Veeam Recording : https://www.youtube.com/watch?v=MwRQkWL4e-M&t=178s
