@@ -24,6 +24,7 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 ### Ansible & HashiCorp Vault: a perfect match - Mark Brookfield
 - Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=7670s
 - Git Repo : https://github.com/autoug/playbooks
+- Presentation : https://github.com/autoug/meetings/blob/master/Presentations/January2021/Ansible%20%26%20Vault%20-%20Mark.pptx
 
 ### Full Recording
 - https://youtu.be/QPLJL1u-Hvs
