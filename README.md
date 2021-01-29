@@ -20,6 +20,13 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 
 ### Creating VM templates with  Packer - Michael Poore
 - Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=4840s
+- Presentation : https://github.com/autoug/meetings/blob/master/Presentations/January2021/vSphere%20and%20Packer%20-%20%40mpoore.pdf
+- Blog : https://blog.v12n.io/
+- Packer Page : https://blog.v12n.io/packer
+- Packer Articles : https://blog.v12n.io/tag/packer
+- Github Repo : https://github.com/v12n-io/autoug-demo
+- Docker Hub : https://hub.docker.com/r/v12nio/codestream-ci-packer
+
 
 ### Ansible & HashiCorp Vault: a perfect match - Mark Brookfield
 - Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=7670s
