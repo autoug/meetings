@@ -16,6 +16,7 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 ### vRealize Automation & Terraform: a New Way to Deploy - Gary Flynn
 - Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=2370s
 - Blog post : https://garyflynn.com/technology/hashicorp/vra-and-terraform-a-new-way-to-deploy/
+- Presentation : https://github.com/autoug/meetings/blob/master/Presentations/January2021/terraform-gary.pdf
 
 ### Creating VM templates with  Packer - Michael Poore
 - Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=4840s
