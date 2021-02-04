@@ -76,9 +76,9 @@ Find links to events etc. below.
 - SaltStack ressourcer : https://github.com/hbokh/awesome-saltstack
 
 ## Products Whats New Updates
-- VRA 8.2 Whats New : https://blogs.vmware.com/management/2020/10/whats-new-with-vrealize-automation-8-2-technical-overview.html
-- VROPS 8.2 Whats New : https://blogs.vmware.com/management/2020/10/whats-new-vrops-82.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-vrops-82
+- VRA 8.3 Whats New : https://blogs.vmware.com/management/2021/02/whats-new-with-vrealize-automation-8-3-technical-overview.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-with-vrealize-automation-8-3-technical-overview
+- VROPS 8.3 Whats New : https://blogs.vmware.com/management/2021/02/whats-new-in-vrealize-operations-8-3.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-in-vrealize-operations-8-3
 - LCM 8.2 Whats New : https://blogs.vmware.com/management/2020/10/vrealize-suite-lifecycle-manager.html?utm_source=feedly&utm_medium=rss&utm_campaign=vrealize-suite-lifecycle-manager
-- Log Insight 8.2 Whats New : https://blogs.vmware.com/management/2020/10/whats-new-in-vrealize-log-insight-8-2.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-in-vrealize-log-insight-8-2
+- Log Insight 8.3 Whats New : https://blogs.vmware.com/management/2021/02/whats-new-in-vrealize-log-insight-8-3.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-in-vrealize-log-insight-8-3
 
 
