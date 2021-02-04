@@ -1,23 +1,54 @@
-# Automation User Group
+# Welcome to Autoug.io
+## The Automation User Group 
 
-Repo for sharing content, links, etc from meetings. 
-
-Find links to events etc. below.
+This Repo is for sharing content, links, etc from meetings, and for discussion Automation, with other peers. 
 
 ## Recordings and Presentations from previus meetings.
-### December 2020
+
+## January 2021
+
+### Back to Basics: Getting started with Docker - Robert Jensen
+
+- Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=256s
+- Git Repo : https://github.com/rhjensen79/b2b-docker  
+- Presentation : https://github.com/rhjensen79/b2b-docker/blob/master/presentation.pdf
+
+### vRealize Automation & Terraform: a New Way to Deploy - Gary Flynn
+- Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=2370s
+- Blog post : https://garyflynn.com/technology/hashicorp/vra-and-terraform-a-new-way-to-deploy/
+- Presentation : https://github.com/autoug/meetings/blob/master/Presentations/January2021/terraform-gary.pdf
+
+### Creating VM templates with  Packer - Michael Poore
+- Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=4840s
+- Presentation : https://github.com/autoug/meetings/blob/master/Presentations/January2021/vSphere%20and%20Packer%20-%20%40mpoore.pdf
+- Blog : https://blog.v12n.io/
+- Packer Page : https://blog.v12n.io/packer
+- Packer Articles : https://blog.v12n.io/tag/packer
+- Github Repo : https://github.com/v12n-io/autoug-demo
+- Docker Hub : https://hub.docker.com/r/v12nio/codestream-ci-packer
+
+
+### Ansible & HashiCorp Vault: a perfect match - Mark Brookfield
+- Recording : https://www.youtube.com/watch?v=QPLJL1u-Hvs&t=7670s
+- Git Repo : https://github.com/autoug/playbooks
+- Presentation : https://github.com/autoug/meetings/blob/master/Presentations/January2021/Ansible%20&%20Vault%20-%20Mark.pptx?raw=true
+
+### Full Recording
+- https://youtu.be/QPLJL1u-Hvs
+
+## December 2020
 - Intro : https://www.youtube.com/watch?v=Fg9gpMWqMF0&t=12s
 - VEBA : https://www.youtube.com/watch?v=Fg9gpMWqMF0&t=297s
 - SaltStack : https://www.youtube.com/watch?v=Fg9gpMWqMF0&t=3860s
 - Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/December2020
-### Oktober 2020
+## Oktober 2020
 - Intro : https://youtu.be/EJkYcFvH0ZQ
 - VCF : https://youtu.be/EJkYcFvH0ZQ?t=239
 - Chat due to network fallout : https://youtu.be/EJkYcFvH0ZQ?t=3752
 - ABX : https://youtu.be/EJkYcFvH0ZQ?t=4169
 - Presentations from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/Oktober2020
 
-### September 2020
+## September 2020
 
 - Intro : https://youtu.be/HCPXxYoTLlI
 - Tales from the field : https://youtu.be/HCPXxYoTLlI?t=250
@@ -25,7 +56,7 @@ Find links to events etc. below.
 - Free discussions : https://youtu.be/HCPXxYoTLlI?t=6017
 - Presentation from the meeting : https://github.com/autoug/meetings/tree/master/Presentations/September2020
 
-### August 2020
+## August 2020
 
 - Intro : https://www.youtube.com/watch?v=MwRQkWL4e-M&t=0s
 - Automatisering med Veeam Recording : https://www.youtube.com/watch?v=MwRQkWL4e-M&t=178s
@@ -36,8 +67,8 @@ Find links to events etc. below.
 - Feedback from meetings : https://forms.gle/71ni1ZnCouNu9ETHA<br>
 
 ## Events<br>
-- Main event site : http://autoug.eventbrite.com/<br>
-- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-december-tickets-121690470473
+- Main event site : http://events.autoug.io<br>
+- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-january-2021-tickets-133202970671?keep_tld=1
 
 ## Flings<br>
 - Main Site : https://flings.vmware.com<br>
@@ -69,11 +100,13 @@ Find links to events etc. below.
 - Jenkins plugin for VRA : https://github.com/jenkinsci/vrealize-automation-8-plugin
 - HowTo connect to vRA API : https://vra4u.com/2020/06/26/vra-8-1-quick-tip-api-authentication/
 - vRA API tips (Getting started, filtering, Odata, etc) : https://vdc-download.vmware.com/vmwb-repository/dcr-public/d2e4e058-df27-4ac1-a100-4dfd0ef774c0/cb3a080c-8e25-4492-9f1e-ff923ec1b98c/tips.html
-
+- Rainpole Packer repository : https://github.com/rainpole/packer-vsphere
+ 
 ## Other<br>
 - vUpdate - VMware podcast : https://anchor.fm/vupdate
 - VMworld 2020 Cloud Management content : https://blogs.vmware.com/management/2020/09/vmworld-vra.html
 - SaltStack ressourcer : https://github.com/hbokh/awesome-saltstack
+- How to Migrate from vRealize Automation 7.x to 8.2 Today : https://blogs.vmware.com/management/2021/01/how-to-migrate-from-vrealize-automation-7-x-to-8-2-today.html
 
 ## Products Whats New Updates
 - VRA 8.3 Whats New : https://blogs.vmware.com/management/2021/02/whats-new-with-vrealize-automation-8-3-technical-overview.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-with-vrealize-automation-8-3-technical-overview
