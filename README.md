@@ -3,6 +3,10 @@
 
 This Repo is for sharing content, links, etc from meetings, and for discussion Automation, with other peers. 
 
+## Events<br>
+- Main event site : http://events.autoug.io<br>
+- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-april-2021-tickets-141656611739
+
 ## Recordings and Presentations from previus meetings.
 
 ## January 2021
@@ -65,10 +69,6 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 
 ## Feedback<br>
 - Feedback from meetings : https://forms.gle/71ni1ZnCouNu9ETHA<br>
-
-## Events<br>
-- Main event site : http://events.autoug.io<br>
-- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-january-2021-tickets-133202970671?keep_tld=1
 
 ## Flings<br>
 - Main Site : https://flings.vmware.com<br>
