@@ -85,6 +85,7 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 - @embano1 VMware Code Practical Git - Video : https://www.youtube.com/watch?v=1EkomxvCscQ
 - @embano1 VMware Code Practical Git - Deck : https://speakerdeck.com/embano1/vmware-code-power-session-git-07-2020
 - @sammcgeown Automating Secrets with HashiCorp Vault and VRA : https://www.youtube.com/watch?v=srY3vJVZU1s&ab_channel=VMware%7Bcode%7D
+- @VMware vRealize Automation Migration 7.x to 8.2 : https://learning.customerconnect.vmware.com/oltpublish/site/coursePlayer.do?dispatch=show&courseSessionId=257427db-3568-11eb-8167-0cc47adeb5f8
 
 ## Links<br>
 - Robert's Repo for extensibility in VRA : https://github.com/rhjensen79/vra-extensibility<br>
@@ -110,9 +111,11 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 - Building a K8S homelab, a serie - currently 1-8 : https://vzilla.co.uk/vzilla-blog/building-the-home-lab-kubernetes-playground-part-1
 
 ## Products Whats New Updates
+- VRA 8.4 Whats New : https://blogs.vmware.com/management/2021/04/whats-new-with-vrealize-automation-8-4-technical-overview.html
 - VRA 8.3 Whats New : https://blogs.vmware.com/management/2021/02/whats-new-with-vrealize-automation-8-3-technical-overview.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-with-vrealize-automation-8-3-technical-overview
 - VROPS 8.3 Whats New : https://blogs.vmware.com/management/2021/02/whats-new-in-vrealize-operations-8-3.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-in-vrealize-operations-8-3
 - LCM 8.2 Whats New : https://blogs.vmware.com/management/2020/10/vrealize-suite-lifecycle-manager.html?utm_source=feedly&utm_medium=rss&utm_campaign=vrealize-suite-lifecycle-manager
+- Log Insight 8.4 Whats New : https://blogs.vmware.com/management/2021/04/whats-new-in-vrealize-log-insight-8-4.html
 - Log Insight 8.3 Whats New : https://blogs.vmware.com/management/2021/02/whats-new-in-vrealize-log-insight-8-3.html?utm_source=feedly&utm_medium=rss&utm_campaign=whats-new-in-vrealize-log-insight-8-3
 
 
