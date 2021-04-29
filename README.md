@@ -5,9 +5,13 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 
 ## Events<br>
 - Main event site : http://events.autoug.io<br>
-- Next meeting : https://www.eventbrite.com/e/automation-user-group-online-event-april-2021-tickets-141656611739
+- Next meeting : TBD
 
 ## Recordings and Presentations from previus meetings.
+
+## April 2021
+- Full recording without sections : https://youtu.be/r-FmvxiPq1I
+
 
 ## January 2021
 
