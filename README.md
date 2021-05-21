@@ -114,6 +114,7 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 - How to Migrate from vRealize Automation 7.x to 8.2 Today : https://blogs.vmware.com/management/2021/01/how-to-migrate-from-vrealize-automation-7-x-to-8-2-today.html
 - Building a K8S homelab, a serie - currently 1-8 : https://vzilla.co.uk/vzilla-blog/building-the-home-lab-kubernetes-playground-part-1
 - Learn Codestream Website : https://learncodestream.github.io
+- The Ultimate Terraform cheatsheet : https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet
 
 ## Products Whats New Updates
 - VRA 8.4 Whats New : https://blogs.vmware.com/management/2021/04/whats-new-with-vrealize-automation-8-4-technical-overview.html
