@@ -9,8 +9,14 @@ This Repo is for sharing content, links, etc from meetings, and for discussion A
 
 ## Recordings and Presentations from previus meetings.
 
+## July 2021
+
+- Full recording : https://youtu.be/rONUykgB-00
+- Krisztian session material : https://kuklis.github.io/cma/post/vra8-servicenow-approval/
+- Katarina K8S website : http://advecti.io
+
 ## April 2021
-- Full recording without sections : https://youtu.be/r-FmvxiPq1I
+- Full recording : https://youtu.be/r-FmvxiPq1I
 
 
 ## January 2021
